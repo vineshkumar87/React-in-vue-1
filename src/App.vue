@@ -27,8 +27,10 @@
 <script>
 import HelloVue from "./components/HelloVue";
 import HelloReact from "./components/HelloReact.jsx";
-import Button from "@mui/material/Button";
+// import Button from "@mui/material/Button";
 // import Button from "@hmoussa1995/react-button-lib-github";
+
+import Button from "@material-ui/core/Button";
 
 export default {
   name: "App",
